@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfRap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rap>
+    <user>usa dulap</user>
+    <action>mesaj</action>
+    <time>2017-04-26T10:05:47</time>
+  </Rap>
+  <Rap>
+    <user>root</user>
+    <action>add useraa</action>
+    <time>2017-04-26T10:13:50</time>
+  </Rap>
+</ArrayOfRap>
